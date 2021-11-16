@@ -1,0 +1,49 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Sustainability"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Environmental Policy"
+    ],
+    [
+      "Engineering",
+      "Environmental Engineering",
+      "Environmental Management"
+    ],
+    [
+      "Social Science",
+      "Urban Studies"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "65a64cda-d0ab-e200-293e-d7879819472b",
+      "939d1519-1df3-ebc1-9984-3c49d20f7811"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "International Environmental Negotiation",
+  "course_description": "This seminar will explore the difficulties of getting agreement on global definitions of sustainability; in particularly building international support for efforts to combat climate change created by greenhouse gas emissions as well as other international resource management efforts. We will focus on possible changes in the way global environmental agreements are formulated and implemented, especially on ways of shifting from the current \"pollution control\" approach to combating climate change to a more comprehensive strategy for taking advantage of sustainable development opportunities.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.364",
+  "learning_resource_types": [
+    "Written Assignments",
+    "Activity Assignments",
+    "Presentation Assignments"
+  ],
+  "title": "Course Metadata"
+}
